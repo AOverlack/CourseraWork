@@ -1,0 +1,18 @@
+---
+title: "CodeBook"
+author: "AOverlack"
+date: "Saturday, July 25, 2015"
+output: word_document
+---
+
+The data set "TidyData-Means" contains the average values of the means and standard deviations of the measurements by the Samsung smartphone. These apply to:
+Linear accelaration along X,Y and Z axis
+Gyroscopic acceleration along the X,Y and Z axis
+Gravity accelaration
+Further description of the way the data were collected and their meaning is obtainable here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+All observations in the rows are split per combination of Activity and Subject:
+In total 30 subjects (Numbered 1-30) have performed the measurements and measurements concern 6 Activities: (Walking, Walkig up stairs, walking down stairs, sitting, standing an laying. )
+
+The various mean-values of measurements are indicated by the remaining column headers.
